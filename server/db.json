@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "jon cina",
+      "age": 25,
+      "address": "productores"
+    },
+    {
+      "id": 2,
+      "name": "serrgio rueda",
+      "age": 65,
+      "address": "zoologico"
+    },
+    {
+      "id": 3,
+      "name": "daniel chelas",
+      "age": 11,
+      "address": "plaza norte"
+    }
+  ]
+}
