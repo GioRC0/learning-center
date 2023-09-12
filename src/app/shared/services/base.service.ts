@@ -3,7 +3,7 @@ import {catchError, Observable, retry, throwError} from "rxjs";
 
 export class BaseService<T> {
   basePath: string = 'http://localhost:3000/api/v1';
-  resourceEndPoint: string = '/resources';
+  resourceEndPoint: string = '/students';
 
   httpOptions = {
     headers: new HttpHeaders({
